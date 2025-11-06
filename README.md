@@ -5,7 +5,7 @@ I'm Raquel, a Front-End Web Developer, based in Portugal!🇵🇹
 
 - 🔭 I have 2+ years of professional experience
 - 💻 I've worked on e-commerce and internal platforms for global brands at FPS (Farfetch Platform Solutions) and on an internal project for CTW (Critical TechWorks)
-- 🌱 I'm currently learning Angular and NextJS to expand my front-end expertise
+- 🌱 I'm currently learning NextJS to expand my front-end expertise
 - 💬 I speak Portuguese, English, Spanish, and a bit of French and Dutch
 
 ## Contact
@@ -18,6 +18,7 @@ If you'd like to connect or learn more, feel free to visit my  [<img src='https:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,6 +34,7 @@ If you'd like to connect or learn more, feel free to visit my  [<img src='https:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
