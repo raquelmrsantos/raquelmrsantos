@@ -1,7 +1,7 @@
 ## About me
 Hi there 👋
 
-I'm Raquel, a Front-End Web Developer, based in Portugal!🇵🇹
+I'm Raquel, a Web Developer, based in Portugal!🇵🇹
 
 - 🔭 I have 2+ years of professional experience
 - 💻 I've worked on e-commerce and internal platforms for global brands at FPS (Farfetch Platform Solutions) and on an internal project for CTW (Critical TechWorks)
