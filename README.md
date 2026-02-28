@@ -3,51 +3,28 @@ Hi there 👋
 
 I'm Raquel, a Web Developer, based in Portugal!🇵🇹
 
-- 🔭 I have 2+ years of professional experience
-- 💻 I've worked on e-commerce and internal platforms for global brands at FPS (Farfetch Platform Solutions) and on an internal project for CTW (Critical TechWorks)
-- 🌱 I'm currently learning NextJS to expand my front-end expertise
-- 💬 I speak Portuguese, English, Spanish, and a bit of French and Dutch
+- 🧩 2+ years of hands-on professional experience
+- 💻 Worked on platforms for global brands at FPS (Farfetch Platform Solutions) and internal tools at CTW (Critical TechWorks)
+- 🌱 Currently diving deeper into Next.js
+- 🌍 I speak Portuguese, English, Spanish, and can survive in French and Dutch
+
+
+
+## Tech Stack
+
+Frontend: HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, React, Next.js, Storybook, Vite   
+Testing: Cypress, Jest, Testing Library  
+Design & Collaboration: Figma, Postman  
+Version Control & CI/CD: Git, GitHub, GitLab, Azure DevOps, Jenkins  
+Backend & Tools: Node.js, Express.js, MongoDB  
+Package Management: NPM, Yarn  
+Cloud Services: AWS  
+APIs & Debugging: REST APIs, Postman  
+Containers: Docker  
+
+
+ ###  ✨ Fun Fact
+Before coding, I spent 10 years as a vet and teacher. Now I debug code instead of cats and dogs.
 
 ## Contact
-If you'd like to connect or learn more, feel free to visit my  [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height=20px>](https://www.linkedin.com/in/raquelmrsantos/) !
-
-
-## Languages and Tools
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-
-![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-
-</div>
-
- ###  ✨ A Bit More About Me
-Before switching to tech, I worked as a Vet and teacher for 10 years—a background that shaped my strong communication, problem-solving, and empathy skills.  
-
-I bring those strengths into Tech, where I care deeply about user experience, team collaboration, and continuous learning.
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height=20px>](https://www.linkedin.com/in/raquelmrsantos/)
