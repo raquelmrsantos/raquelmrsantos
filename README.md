@@ -12,7 +12,7 @@ I'm Raquel, a Web Developer, based in Portugal!🇵🇹
 
 ## Tech Stack
 
-Frontend: HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, React, Next.js, Storybook, Vite   
+Frontend: HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, React, Next.js, Angular, Storybook, Vite   
 Testing: Cypress, Jest, Testing Library  
 Design & Collaboration: Figma, Postman  
 Version Control & CI/CD: Git, GitHub, GitLab, Azure DevOps, Jenkins  
