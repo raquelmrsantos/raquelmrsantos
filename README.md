@@ -5,7 +5,7 @@ I'm Raquel, a Web Developer, based in Portugal!🇵🇹
 
 - 🧩 3 years of hands-on professional experience
 - 💻 Worked on platforms for global brands at FPS (Farfetch Platform Solutions) and internal tools at CTW (Critical TechWorks)
-- 🌱 Currently diving deeper into Next.js
+- 🌱 Currently diving deeper into Angular
 - 🌍 I speak Portuguese, English, Spanish, and can survive in French and Dutch
 
 
@@ -15,7 +15,7 @@ I'm Raquel, a Web Developer, based in Portugal!🇵🇹
 Frontend: HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, React, Next.js, Angular, Storybook, Vite   
 Testing: Cypress, Jest, Testing Library  
 Design & Collaboration: Figma, Postman  
-Version Control & CI/CD: Git, GitHub, GitLab, Azure DevOps, Jenkins  
+Version Control & CI/CD: Git, GitHub, GitLab, Azure DevOps, BitBucket, Jenkins  
 Backend & Tools: Node.js, Express.js, MongoDB  
 Package Management: NPM, Yarn  
 Cloud Services: AWS  
