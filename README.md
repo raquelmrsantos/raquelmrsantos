@@ -3,7 +3,7 @@ Hi there 👋
 
 I'm Raquel, a Web Developer, based in Portugal!🇵🇹
 
-- 🧩 2+ years of hands-on professional experience
+- 🧩 3 years of hands-on professional experience
 - 💻 Worked on platforms for global brands at FPS (Farfetch Platform Solutions) and internal tools at CTW (Critical TechWorks)
 - 🌱 Currently diving deeper into Next.js
 - 🌍 I speak Portuguese, English, Spanish, and can survive in French and Dutch
