@@ -3,7 +3,7 @@ Hi there 👋
 
 I'm Raquel, a Web Developer, based in Portugal!🇵🇹
 
-- 🧩 Hands-on professional experience
+- 🧩 More than 3 years hands-on professional experience
 - 💻 Worked on e-commerce platforms for global brands at FPS (Farfetch Platform Solutions), internal tools at CTW (Critical TechWorks), and front-end solutions in the e-mobility sector at SMATRICS
 - 🌱 Currently diving deeper into Angular and working at Amaris
 - 🌍 I speak Portuguese, English, Spanish, and can survive in French and Dutch
